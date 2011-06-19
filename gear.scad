@@ -3,7 +3,6 @@
 // By Joey Hudy
 // Joey@LookWhatJoeysMaking.Com
 // 2011-06-14 First version
-// GIT TEST
 
 
 difference(){ 
